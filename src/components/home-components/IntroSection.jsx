@@ -30,7 +30,7 @@ export default function EditorialHomeContinued() {
             }`} />
 
             <div className="space-y-6 relative z-10">
-              <p className="text-xl sm:text-2xl text-[#1A1B41] font-medium leading-relaxed tracking-tight">
+              <p className="text-lg sm:text-xl text-[#1A1B41] font-medium leading-relaxed tracking-tight">
                 At Automint, we believe successful digital transformation begins with understanding people, processes, and business goals. Technology is a powerful enabler, but lasting success comes from combining intelligent systems with human expertise.
               </p>
             </div>
@@ -73,7 +73,7 @@ export default function EditorialHomeContinued() {
             }`} />
 
             <div className="max-w-3xl space-y-4 relative z-10">
-              <p className="text-lg sm:text-xl lg:text-2xl text-[#F1FFE7] font-normal leading-relaxed tracking-wide">
+              <p className="text-lg sm:text-lg lg:text-xl text-[#F1FFE7] font-normal leading-relaxed tracking-wide">
                 Our multidisciplinary team of business consultants, software engineers, automation specialists, cloud architects, data analysts, and cybersecurity professionals collaborates with organizations to design solutions that create measurable value.
               </p>
             </div>
